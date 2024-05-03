@@ -1,2 +1,2 @@
-let connected;
+let versionhandleconnected;
 let version = "1.4";
